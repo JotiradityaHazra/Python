@@ -5,4 +5,5 @@ Hi I am Jotiraditya Hazra <br>
 I am about start relearn Python starting from the Basics <br>
 Come join me in this journey 
 
-1. Basics :- 
+1. Basics :- <br>
+Here we learn basics of python 
