@@ -29,3 +29,4 @@ print("Your fruit has",lenfru ,"letters")
 
 b="popcorn"
 print(b[-4:-2]) 
+
