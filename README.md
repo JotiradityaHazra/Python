@@ -15,3 +15,4 @@ Modules ==> A module is a file containing  code which can be imported and used i
 Package ==> A package in Python is a collection of modules grouped together in a directory <br>
 
 PIP ==> pip is a package manager for python Use pip to install modules on your system ..... pip install module_name <br>
+
