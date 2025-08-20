@@ -27,7 +27,7 @@ else:
 #elif statement only # executes when the if condition is false
 # it is used to check multiple conditions
 
-p=int(input("Enter number"))  
+p=int(input("Enter number "))  
      
 if p>0:
     print("Positive number")
