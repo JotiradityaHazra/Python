@@ -36,5 +36,17 @@ elif p<0:
 else:
     print("Zero")   
     
-          
-      
+# Nested if else statement 
+x = int(input("Enter a number: "))
+
+if x<0:
+    print("Negative number")
+elif x>0: 
+    if x<10:
+        print("Single digit positive number")
+    elif(x<20):
+        print("Double digit positive number")
+    else:
+        print("Number is greater than 20")
+else:
+    print("Zero")
