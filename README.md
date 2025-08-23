@@ -27,5 +27,7 @@ Data types tell Python what kind of value a variable holds
 
 Operators :- Use the operators to carry mathematical and logical Statement. throughout your code <br>
 + - * / <br>
-< ,> ,<=, >=,== ,=!
-
+< ,> ,<=, >=,== ,=! <br>
+<br>
+Strings :- String is a sequence of chars in the single or double quotes <br>
+a="Hello" <br>
