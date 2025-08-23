@@ -17,6 +17,9 @@ Package ==> A package in Python is a collection of modules grouped together in a
 PIP ==> pip is a package manager for python Use pip to install modules on your system ..... pip install module_name <br>
 
 Data type and Variable == > <br>
-variables are containers <br>
+Variables :- variables are containers <br>
 saying to the computer to store that value in RAM <br>
 
+
+Data types:- <br>
+Data types tell Python what kind of value a variable holds
