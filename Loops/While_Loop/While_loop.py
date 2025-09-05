@@ -6,5 +6,9 @@ while(i<3):
     i =  i+1
     
     
-for j in range(1,100,20):
-    print(j-1)   
+# for j in range(1,100,20):
+#     print(j-1)   
+while(i<10):
+        i= int(input("Enter a number "))
+        print(i)
+        print("Done")      
