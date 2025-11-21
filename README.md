@@ -1,5 +1,4 @@
 # Python
-
 Hi I am Jotiraditya Hazra <br>
 I am about start relearn Python starting from the Basics <br>
 Come join me in this journey 
@@ -31,4 +30,4 @@ Operators :- Use the operators to carry mathematical and logical Statement. thro
 Strings :- String is a sequence of chars in the single or double quotes <br>
 a="Hello" <br>
 
-
+Rohan notification <br>
